@@ -16,6 +16,14 @@ form {
     background-color: #000;
     color: #fff;
   }
+
+.radio-options {
+    display: flex;
+  }
+  
+  .radio-options > div {
+    margin-right: 10px; /* Adjust as needed for spacing */
+  }
   textarea,
   input[type="text"] {
     width: 100%;
